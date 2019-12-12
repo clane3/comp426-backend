@@ -1,11 +1,11 @@
 {
   "users": {
-    "js-s": {
-      "passwordHash": "$2a$10$HPsCPmtMbZMUhEZ/hLURoOEYzIbBiI3guf2n7Eu6iESySigKW6sXS",
+    "calvin-lane": {
+      "passwordHash": "$2a$10$dB6Hue.M3uwPtvNp4YhAbOz0abM/u9VopDTHaBvuCbAli73PIjHRe",
       "data": {
         "role": "user",
-        "email": "jasdf"
+        "email": "12"
       }
     }
-  }
+  } 
 }
