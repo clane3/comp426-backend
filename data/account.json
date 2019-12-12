@@ -1,3 +1,11 @@
 {
-  
+  "users": {
+    "js-s": {
+      "passwordHash": "$2a$10$HPsCPmtMbZMUhEZ/hLURoOEYzIbBiI3guf2n7Eu6iESySigKW6sXS",
+      "data": {
+        "role": "user",
+        "email": "jasdf"
+      }
+    }
+  }
 }

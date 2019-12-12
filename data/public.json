@@ -1,2 +1,53 @@
 {
+  "DAGs": {
+    "Download VSCode": {
+      "name": "Download VSCode",
+      "description": "Get started with VSCode",
+      "maker": "VEGA",
+      "DAG": {
+        "options": {
+          "directed": true,
+          "multigraph": false,
+          "compound": false
+        },
+        "nodes": [
+          {
+            "v": "sb84c4o9h9i",
+            "value": {
+              "shape": "circle",
+              "id": "sb84c4o9h9i",
+              "node_value": {
+                "title_text": "Click here",
+                "url": "https://code.visualstudio.com/download",
+                "entered_text": "Downloads the 64 bit version for windows.",
+                "html": "<a class=\"dlink\" data-os=\"win64user\" href=\"#\" role=\"link\" aria-label=\"Windows User install 64 bit\">64 bit</a>"
+              }
+            }
+          },
+          {
+            "v": "gbw5hati38c",
+            "value": {
+              "shape": "circle",
+              "id": "gbw5hati38c",
+              "node_value": {
+                "title_text": "Get Started",
+                "url": "https://code.visualstudio.com/docs/introvideos/basics",
+                "entered_text": "Use these videos to get your environment set up!",
+                "html": "<h1>Getting started with Visual Studio Code</h1>"
+              }
+            }
+          }
+        ],
+        "edges": [
+          {
+            "v": "sb84c4o9h9i",
+            "w": "gbw5hati38c"
+          }
+        ],
+        "value": {}
+      },
+      "root_node_id": "sb84c4o9h9i",
+      "date": "2019"
+    }
+  }
 }
