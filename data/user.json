@@ -22,5 +22,53 @@
       "email": "daddy@hotmail.com",
       "DAGs": {}
     }
+  },
+  "qwerqwre-qwerqwer": {
+    "qwerqwre\\-qwerqwer": {
+      "firstname": "qwerqwre",
+      "lastname": "qwerqwer",
+      "email": "qwerqwer",
+      "DAGs": {}
+    }
+  },
+  "dsfasdfasdf-asdfasfd": {
+    "dsfasdfasdf\\-asdfasfd": {
+      "firstname": "dsfasdfasdf",
+      "lastname": "asdfasfd",
+      "email": "asdfasf",
+      "DAGs": {}
+    }
+  },
+  "12341234-12341234": {
+    "12341234\\-12341234": {
+      "firstname": "12341234",
+      "lastname": "12341234",
+      "email": "12341234",
+      "DAGs": {}
+    }
+  },
+  "asdfasd-asdfasdfasdf": {
+    "asdfasd\\-asdfasdfasdf": {
+      "firstname": "asdfasd",
+      "lastname": "asdfasdfasdf",
+      "email": "asa",
+      "DAGs": {}
+    }
+  },
+  "asdfasdf-asdfasdfasdf": {
+    "asdfasdf\\-asdfasdfasdf": {
+      "firstname": "asdfasdf",
+      "lastname": "asdfasdfasdf",
+      "email": "asa",
+      "DAGs": {}
+    }
+  },
+  "km-p": {
+    "KM\\-P": {
+      "firstname": "KM",
+      "lastname": "P",
+      "email": "kmp@live.unc.edu",
+      "DAGs": {}
+    }
   }
 }

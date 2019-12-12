@@ -41,6 +41,48 @@
         "role": "user",
         "email": "daddy@hotmail.com"
       }
+    },
+    "qwerqwre-qwerqwer": {
+      "passwordHash": "$2a$10$sC6/cEuBMGGzJhOuNBwqpOuRUU5Yy4sdcgnB.06w8CKwCU9XqownS",
+      "data": {
+        "role": 2,
+        "email": "qwerqwer"
+      }
+    },
+    "dsfasdfasdf-asdfasfd": {
+      "passwordHash": "$2a$10$1k94JHGpgyEiWQKZoW/vUunfubrYuaMoxPu/t1Cr/N/yMeH/uCQRe",
+      "data": {
+        "role": 2,
+        "email": "asdfasf"
+      }
+    },
+    "12341234-12341234": {
+      "passwordHash": "$2a$10$jPuqyleK/F.oAVlgvhInX.aMOrFjDmslKORw6Vie0o8dbSXxcSAIG",
+      "data": {
+        "role": 2,
+        "email": "12341234"
+      }
+    },
+    "asdfasd-asdfasdfasdf": {
+      "passwordHash": "$2a$10$5xVLMiyGscdECpPuOr0K3uLbFMFox0p3Hc2GUu4sBynmWLag.kkOO",
+      "data": {
+        "role": 2,
+        "email": "asa"
+      }
+    },
+    "asdfasdf-asdfasdfasdf": {
+      "passwordHash": "$2a$10$sfKT68OadPZfEcZbRkb9CupVwd20FhWk9Cmf1l7z0LyrU/gOyPbO6",
+      "data": {
+        "role": 2,
+        "email": "asa"
+      }
+    },
+    "km-p": {
+      "passwordHash": "$2a$10$vN7887Xx.4rIefBolMGmyOWb/LQUNpekBs1oo9F/BMwbbhzyX16..",
+      "data": {
+        "role": 2,
+        "email": "kmp@live.unc.edu"
+      }
     }
   }
 }
